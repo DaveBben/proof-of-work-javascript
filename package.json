@@ -1,0 +1,16 @@
+{
+  "name": "javascript-proof-of-work",
+  "version": "1.0.0",
+  "description": "Implementation of proof of work in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dave Bennett",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
